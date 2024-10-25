@@ -1,0 +1,2 @@
+-keep class * { *; }
+-keep class android.window.BackEvent { *; }
